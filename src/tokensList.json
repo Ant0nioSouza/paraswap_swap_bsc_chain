@@ -1,0 +1,44 @@
+{
+  "name": "Minimalistic Token List",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 2
+  },
+  "tags": {},
+  "keywords": ["minimalistic"],
+  "tokens": [
+    {
+      "name": "",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.paraswap.io/token/USDC.png"
+    },
+    {
+      "name": "",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.paraswap.io/token/USDT.png"
+    },
+    {
+      "name": "",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.paraswap.io/token/DAI.png"
+    },
+    {
+      "name": "",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "$DG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.paraswap.io/token/BUSD.png"
+    }
+  ]
+}
